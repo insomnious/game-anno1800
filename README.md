@@ -5,6 +5,7 @@ This is an extension for [Vortex](https://www.nexusmods.com/about/vortex/) to ad
 # Features
 
 - Support for managing mods that use the [Xforce Mod Loader](https://github.com/xforce/anno1800-mod-loader) (see below).
+
 - Automatic game detection.
 <!-- - Installation of archives which include more than one mod.
 - Automatic detection of ModBuddy (the XCOM 2 modding toolkit).
